@@ -3,6 +3,6 @@
 Statistical inference project by 
 Takumi Horiba,
 Zhaolan Wang,
-Jessica Peng,
+Jessica Peng, and
 Riu Sugimoto.
 
