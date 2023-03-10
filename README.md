@@ -1,8 +1,8 @@
 # STAT 201 Group Project
 
 Statistical inference project by 
-Takumi Horiba
-,Zhaolan Wang
-,Jessica Peng
-,Riu Sugimoto
+Takumi Horiba,
+Zhaolan Wang,
+Jessica Peng,
+Riu Sugimoto.
 
